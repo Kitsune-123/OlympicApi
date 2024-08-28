@@ -1,7 +1,7 @@
 {
   "Countries": [
     {
-      "id": "01",
+      "id": "1",
       "name": "USA",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
       "gold_medals": 40,
@@ -11,7 +11,7 @@
       "rank": 1
     },
     {
-      "id": "02",
+      "id": "2",
       "name": "China",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
       "gold_medals": 40,
@@ -21,7 +21,7 @@
       "rank": 2   
     },
     {
-      "id": "03",
+      "id": "3",
       "name": "Japan",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png",
       "gold_medals": 20,
@@ -31,7 +31,7 @@
       "rank": 3
     },
     {
-      "id": "04",
+      "id": "4",
       "name": "Australia",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png",
       "gold_medals": 18,
@@ -41,7 +41,7 @@
       "rank": 4
     },
     {
-      "id": "05",
+      "id": "5",
       "name": "France",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
       "gold_medals": 16,
@@ -52,7 +52,7 @@
       "rank_total_medals": 4
     },
     {
-      "id": "06",
+      "id": "6",
       "name": "NetherLand",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
       "gold_medals": 15,
@@ -62,7 +62,7 @@
       "rank": 6
     },
     {
-      "id": "07",
+      "id": "7",
       "name": "Great Britian",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
       "gold_medals": 14,
@@ -72,7 +72,7 @@
       "rank": 7
     },
     {
-      "id": "08",
+      "id": "8",
       "name": "Republic of Korea",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
       "gold_medals": 13,
@@ -82,7 +82,7 @@
       "rank": 8
     },
     {
-      "id": "09",
+      "id": "9",
       "name": "Italy",
       "continent": "EUR",
       "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png",
