@@ -1,0 +1,194 @@
+{
+    "CDetail": [
+      {
+        "id": "1",
+        "name": "USA",
+        "size": "3,796,742 square miles",
+        "population": 331000000,
+        "gold_medal_sport": "Chloe Dygert won gold in cycling",
+        "silver_medal_sport": "Megan Rapinoe won silver in soccer",
+        "bronze_medal_sport": "Simone Biles won bronze in gymnastics"
+      },
+      {
+        "id": "2",
+        "name": "China",
+        "size": "3,705,407 square miles",
+        "population": 1412000000,
+        "gold_medal_sport": "Long and Wang won gold in synchronized diving",
+        "silver_medal_sport": "Zhang Yufei won silver in swimming",
+        "bronze_medal_sport": "Shi Tingmao won bronze in diving"
+      },
+      {
+        "id": "3",
+        "name": "Japan",
+        "size": "145,937 square miles",
+        "population": 125800000,
+        "gold_medal_sport": "Kitaguchi Haruka won gold in javelin throw",
+        "silver_medal_sport": "Ryota Murata won silver in boxing",
+        "bronze_medal_sport": "Takanashi Sara won bronze in ski jumping"
+      },
+      {
+        "id": "4",
+        "name": "Australia",
+        "size": "2,941,300 square miles",
+        "population": 25760000,
+        "gold_medal_sport": "Kaylee McKeown won gold in swimming",
+        "silver_medal_sport": "Emma McKeon won silver in swimming",
+        "bronze_medal_sport": "Ariarne Titmus won bronze in swimming"
+      },
+      {
+        "id": "5",
+        "name": "France",
+        "size": "248,573 square miles",
+        "population": 67390000,
+        "gold_medal_sport": "Ugo Didier won gold in Paralympic swimming",
+        "silver_medal_sport": "Clarisse Agbegnenou won silver in judo",
+        "bronze_medal_sport": "Florent Manaudou won bronze in swimming"
+      },
+      {
+        "id": "6",
+        "name": "Netherlands",
+        "size": "16,040 square miles",
+        "population": 17460000,
+        "gold_medal_sport": "Winning gold in rowing women's pair",
+        "silver_medal_sport": "Annemiek van Vleuten won silver in cycling",
+        "bronze_medal_sport": "Sifan Hassan won bronze in athletics"
+      },
+      {
+        "id": "7",
+        "name": "Great Britain",
+        "size": "93,628 square miles",
+        "population": 67100000,
+        "gold_medal_sport": "Ros Canter won gold in eventing",
+        "silver_medal_sport": "Adam Peaty won silver in swimming",
+        "bronze_medal_sport": "Tom Daley won bronze in diving"
+      },
+      {
+        "id": "8",
+        "name": "Republic of Korea",
+        "size": "38,691 square miles",
+        "population": 51780000,
+        "gold_medal_sport": "Yang Jiin won gold in pistol shooting",
+        "silver_medal_sport": "Hwang Dae-heon won silver in speed skating",
+        "bronze_medal_sport": "Kim Ji-woo won bronze in archery"
+      },
+      {
+        "id": "9",
+        "name": "Italy",
+        "size": "116,347 square miles",
+        "population": 59550000,
+        "gold_medal_sport": "Ekaterina Antropova won gold in volleyball",
+        "silver_medal_sport": "Luigi Busà won silver in karate",
+        "bronze_medal_sport": "Irma Testa won bronze in boxing"
+      },
+      {
+        "id": "10",
+        "name": "Germany",
+        "size": "137,988 square miles",
+        "population": 83130000,
+        "gold_medal_sport": "Julius Thole won gold in beach volleyball",
+        "silver_medal_sport": "Laura Ludwig won silver in beach volleyball",
+        "bronze_medal_sport": "Isabell Werth won bronze in dressage"
+      },
+      {
+        "id": "11",
+        "name": "New Zealand",
+        "size": "103,483 square miles",
+        "population": 5130000,
+        "gold_medal_sport": "Lisa Carrington won gold in canoeing",
+        "silver_medal_sport": "Dylan Schmidt won silver in trampoline",
+        "bronze_medal_sport": "David Nyika won bronze in boxing"
+      },
+      {
+        "id": "12",
+        "name": "Canada",
+        "size": "3,855,103 square miles",
+        "population": 38390000,
+        "gold_medal_sport": "Andre De Grasse won gold in athletics",
+        "silver_medal_sport": "Penny Oleksiak won silver in swimming",
+        "bronze_medal_sport": "Laurence Vincent-Lapointe won bronze in canoeing"
+      },
+      {
+        "id": "13",
+        "name": "Uzbekistan",
+        "size": "172,700 square miles",
+        "population": 35350000,
+        "gold_medal_sport": "Bakhodir Jalolov won gold in boxing",
+        "silver_medal_sport": "Shakhobidin Zoirov won silver in boxing",
+        "bronze_medal_sport": "Ilkhomjon Alijonov won bronze in weightlifting"
+      }
+      {
+        "id": "14",
+        "name": "Hungary",
+        "size": "35,919 square miles",
+        "population": 9773000,
+        "gold_medal_sport": "Kristof Milak won gold in swimming",
+        "silver_medal_sport": "Tamas Kenderesi won silver in swimming",
+        "bronze_medal_sport": "Anita Marton won bronze in athletics"
+      },
+      {
+        "id": "15",
+        "name": "Spain",
+        "size": "195,364 square miles",
+        "population": 47350000,
+        "gold_medal_sport": "Alberto Ginés López won gold in climbing",
+        "silver_medal_sport": "Sandra Sánchez won silver in karate",
+        "bronze_medal_sport": "Damián Quintero won bronze in karate"
+      },
+      {
+        "id": "16",
+        "name": "Sweden",
+        "size": "173,860 square miles",
+        "population": 10330000,
+        "gold_medal_sport": "Armand Duplantis won gold in pole vault",
+        "silver_medal_sport": "Sarah Sjöström won silver in swimming",
+        "bronze_medal_sport": "Henrik Stenson won bronze in golf"
+      },
+      {
+        "id": "17",
+        "name": "Kenya",
+        "size": "224,081 square miles",
+        "population": 53770000,
+        "gold_medal_sport": "Eliud Kipchoge won gold in marathon",
+        "silver_medal_sport": "Faith Kipyegon won silver in athletics",
+        "bronze_medal_sport": "Timothy Cheruiyot won bronze in athletics"
+      },
+      {
+        "id": "18",
+        "name": "Norway",
+        "size": "148,729 square miles",
+        "population": 5421000,
+        "gold_medal_sport": "Karsten Warholm won gold in athletics",
+        "silver_medal_sport": "Jakob Ingebrigtsen won silver in athletics",
+        "bronze_medal_sport": "Sigrid Røkke won bronze in skiing"
+      },
+      {
+        "id": "19",
+        "name": "Ireland",
+        "size": "27,133 square miles",
+        "population": 4997000,
+        "gold_medal_sport": "Kellie Harrington won gold in boxing",
+        "silver_medal_sport": "Aidan Walsh won silver in boxing",
+        "bronze_medal_sport": "Natalya Coyle won bronze in pentathlon"
+      },
+      {
+        "id": "20",
+        "name": "Brazil",
+        "size": "3,287,956 square miles",
+        "population": 213000000,
+        "gold_medal_sport": "Rebeca Andrade won gold in gymnastics",
+        "silver_medal_sport": "Italo Ferreira won silver in surfing",
+        "bronze_medal_sport": "Bruno Fratus won bronze in swimming"
+      },
+      {
+        "id": "21",
+        "name": "Iran",
+        "size": "636,372 square miles",
+        "population": 85640000,
+        "gold_medal_sport": "Mohammad Reza Geraei won gold in wrestling",
+        "silver_medal_sport": "Sajjad Mardani won silver in taekwondo",
+        "bronze_medal_sport": "Alireza Karimi won bronze in wrestling"
+      }
+    ]
+  }
+  
