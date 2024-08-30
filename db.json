@@ -152,66 +152,6 @@
       "bronze_medals": 9,
       "total_medals": 18,
       "rank": 15
-    },
-    {
-      "id": "16",
-      "name": "Sweden",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWE.png",
-      "gold_medals": 4,
-      "silver_medals": 4,
-      "bronze_medals": 3,
-      "total_medals": 11,
-      "rank": 16
-    },
-    {
-      "id": "17",
-      "name": "Kenya",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KEN.png",
-      "gold_medals": 4,
-      "silver_medals": 2,
-      "bronze_medals": 5,
-      "total_medals": 11,
-      "rank": 17
-    },
-    {
-      "id": "18",
-      "name": "Norway",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NOR.png",
-      "gold_medals": 4,
-      "silver_medals": 1,
-      "bronze_medals": 3,
-      "total_medals": 8,
-      "rank": 18
-    },
-    {
-      "id": "19",
-      "name": "Ireland",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRL.png",
-      "gold_medals": 4,
-      "silver_medals": 0,
-      "bronze_medals": 3,
-      "total_medals": 7,
-      "rank": 19
-    },
-    {
-      "id": "20",
-      "name": "Brazil",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRA.png",
-      "gold_medals": 3,
-      "silver_medals": 7,
-      "bronze_medals": 10,
-      "total_medals": 20,
-      "rank": 20
-    },
-    {
-      "id": "21",
-      "name": "Iran",
-      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRI.png",
-      "gold_medals": 3,
-      "silver_medals": 6,
-      "bronze_medals": 3,
-      "total_medals": 12,
-      "rank": 21
     }
   ],
   "CDetail": [
@@ -349,60 +289,6 @@
         "gold_medal_sport": "Alberto Ginés López won gold in climbing",
         "silver_medal_sport": "Sandra Sánchez won silver in karate",
         "bronze_medal_sport": "Damián Quintero won bronze in karate"
-      },
-      {
-        "id": "16",
-        "name": "Sweden",
-        "size": "173,860 square miles",
-        "population": 10330000,
-        "gold_medal_sport": "Armand Duplantis won gold in pole vault",
-        "silver_medal_sport": "Sarah Sjöström won silver in swimming",
-        "bronze_medal_sport": "Henrik Stenson won bronze in golf"
-      },
-      {
-        "id": "17",
-        "name": "Kenya",
-        "size": "224,081 square miles",
-        "population": 53770000,
-        "gold_medal_sport": "Eliud Kipchoge won gold in marathon",
-        "silver_medal_sport": "Faith Kipyegon won silver in athletics",
-        "bronze_medal_sport": "Timothy Cheruiyot won bronze in athletics"
-      },
-      {
-        "id": "18",
-        "name": "Norway",
-        "size": "148,729 square miles",
-        "population": 5421000,
-        "gold_medal_sport": "Karsten Warholm won gold in athletics",
-        "silver_medal_sport": "Jakob Ingebrigtsen won silver in athletics",
-        "bronze_medal_sport": "Sigrid Røkke won bronze in skiing"
-      },
-      {
-        "id": "19",
-        "name": "Ireland",
-        "size": "27,133 square miles",
-        "population": 4997000,
-        "gold_medal_sport": "Kellie Harrington won gold in boxing",
-        "silver_medal_sport": "Aidan Walsh won silver in boxing",
-        "bronze_medal_sport": "Natalya Coyle won bronze in pentathlon"
-      },
-      {
-        "id": "20",
-        "name": "Brazil",
-        "size": "3,287,956 square miles",
-        "population": 213000000,
-        "gold_medal_sport": "Rebeca Andrade won gold in gymnastics",
-        "silver_medal_sport": "Italo Ferreira won silver in surfing",
-        "bronze_medal_sport": "Bruno Fratus won bronze in swimming"
-      },
-      {
-        "id": "21",
-        "name": "Iran",
-        "size": "636,372 square miles",
-        "population": 85640000,
-        "gold_medal_sport": "Mohammad Reza Geraei won gold in wrestling",
-        "silver_medal_sport": "Sajjad Mardani won silver in taekwondo",
-        "bronze_medal_sport": "Alireza Karimi won bronze in wrestling"
       }
     ]
 }
